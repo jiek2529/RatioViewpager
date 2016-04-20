@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/jiek/git/RatioViewpager/app/build/intermediates/res/merged/debug/layout/a.xml",
+        "source": "/Users/jiek/git/RatioViewpager/app/src/main/res/layout/a.xml"
+    },
+    {
+        "merged": "/Users/jiek/git/RatioViewpager2/app/build/intermediates/res/merged/debug/layout/a.xml",
+        "source": "/Users/jiek/git/RatioViewpager2/app/src/main/res/layout/a.xml"
+    },
+    {
+        "merged": "/Users/jiek/git/RatioViewpager2/app/build/intermediates/res/merged/debug/layout/view_circular_progressbar.xml",
+        "source": "/Users/jiek/git/RatioViewpager2/app/src/main/res/layout/view_circular_progressbar.xml"
+    },
+    {
+        "merged": "/Users/jiek/git/RatioViewpager/app/build/intermediates/res/merged/debug/layout/view_circular_progressbar.xml",
+        "source": "/Users/jiek/git/RatioViewpager/app/src/main/res/layout/view_circular_progressbar.xml"
+    },
+    {
+        "merged": "/Users/jiek/git/RatioViewpager2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jiek/git/RatioViewpager2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/jiek/git/RatioViewpager/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/jiek/git/RatioViewpager/app/src/main/res/layout/main.xml"
+    }
+]
